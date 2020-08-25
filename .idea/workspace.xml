@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7053aefb-e31c-44b9-94b0-e039e7c51614" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gaiUEcy5QUcJtfT1njo8Z3TinD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7053aefb-e31c-44b9-94b0-e039e7c51614" name="Default Changelist" comment="" />
+      <created>1598359118965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598359118965</updated>
+      <workItem from="1598359120154" duration="1207000" />
+      <workItem from="1598362194486" duration="857000" />
+      <workItem from="1598365162608" duration="151000" />
+      <workItem from="1598365438550" duration="204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="298" key="#Project_Settings" timestamp="1598365589943">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="653" y="298" key="#Project_Settings/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1598365589943" />
+    <state x="440" y="154" key="#Project_Structure" timestamp="1598359132830">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="154" key="#Project_Structure/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1598359132830" />
+    <state x="117" y="174" key="#SonarLint" timestamp="1598361734873">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="117" y="174" key="#SonarLint/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1598361734873" />
+    <state x="461" y="225" key="SettingsEditor" timestamp="1598365287446">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="225" key="SettingsEditor/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1598365287446" />
+    <state x="385" y="185" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1598361731013">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="385" y="185" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1598361731013" />
+  </component>
+</project>
